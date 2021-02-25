@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhildwia&theme=vue-dark&hide=css,html,php,jupyter%20notebook,javascript,hack,tsql&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages : </h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"</p>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </p>
+
 
 <h3 align="left">Let's connect! </h3>
 
