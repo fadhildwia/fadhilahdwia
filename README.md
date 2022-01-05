@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2 align="left">Hi 👋, I'm Fadhilah Dwi Ananda!</h2>
 <h4 align="left">I'm passionate about Front-End Web Developer</h4>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript & Typescript**
 
 - 📫 How to reach me **fadhilahdwi.a@gmail.com**
 
