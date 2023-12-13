@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/user6269li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6269li" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
