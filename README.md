@@ -18,7 +18,7 @@ I am an experienced front-end developer with over 2+ years of experience in the 
 
 - 📫 How to reach me **fadhilahdwi.a@gmail.com**
 
-## 💻 Connect with me:
+## 💻 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/fadhilahdwiananda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadhilahdwiananda/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UClBvEuTwUUNDpPW1WKedjnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclbveutwuundppw1wkedjnw" height="30" width="40" /></a>
