@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋, I'm Fadhilah Dwi Ananda!</h2>
-<h4 align="left">I am an experienced front-end developer with over 2 years of experience in the field. I specialize in designing and developing visually appealing and responsive user interfaces. My expertise in JavaScript and TypeScript, as well as frameworks like React Js, Next Js, React Native, and Node.js.</h4>
+<h4 align="left">I am an experienced front-end developer with over 2+ years of experience in the field. I specialize in designing and developing visually appealing and responsive user interfaces. My expertise in JavaScript and TypeScript, as well as frameworks like React Js, Next Js, React Native, and Node.js.</h4>
 
 - 📫 How to reach me **fadhilahdwi.a@gmail.com**
 
