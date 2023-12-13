@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋, I'm Fadhilah Dwi Ananda!</h2>
-<h4 align="left">I am an experienced front-end developer with over 2+ years of experience in the field. I specialize in designing and developing visually appealing and responsive user interfaces. My expertise in JavaScript and TypeScript, as well as frameworks like React Js, Next Js, React Native, and Node.js.</h4>
+## Hi👋, I'm Fadhilah Dwi Ananda!
+I am an experienced front-end developer with over 2+ years of experience in the field. I specialize in designing and developing visually appealing and responsive user interfaces. My expertise in JavaScript and TypeScript, as well as frameworks like React Js, Next Js, React Native, and Node.js.
 
 - 📫 How to reach me **fadhilahdwi.a@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 💻 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/fadhilahdwiananda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadhilahdwiananda/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UClBvEuTwUUNDpPW1WKedjnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclbveutwuundppw1wkedjnw" height="30" width="40" /></a>
