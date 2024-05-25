@@ -4,14 +4,14 @@
 Software Developer with 3+ years of experience. Worked for innovative startups and large enterprise products. Familiar with both remote, and in-office roles. Comfortable for Web, Mobile, and API development.
 
 - Feel free to checkout my [portfolio](https://www.fadhilahdwia.com/) website!
+- 🏢 Frontend Developer (Remote) [@Akasia](https://akasia.id/), in Yogyakarta
+- ⚡ I enjoy gaming, reading, and jogging :)
 - 📫 Reach out to me **fadhilahdwi.a@gmail.com**
 
 ## 💻 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/fadhilahdwiananda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadhilahdwiananda/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UClBvEuTwUUNDpPW1WKedjnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclbveutwuundppw1wkedjnw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fadhilahdwi_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fadhilahdwi_a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user6269li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6269li" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Technologies & Tools
@@ -27,6 +27,5 @@ Software Developer with 3+ years of experience. Worked for innovative startups a
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-TailwindCSS-informational?style=flat&color=warning&logo=tailwindcss)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhildwia&show_icons=true&theme=onedark&locale=en&layout=compact" alt="fadhildwia" /></p>
-
+## 📊 Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhildwia&show_icons=true&theme=onedark&locale=en" alt="fadhildwia" /></p>
