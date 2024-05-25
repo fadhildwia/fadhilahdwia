@@ -4,6 +4,7 @@
 Software Developer with 3+ years of experience. Worked for innovative startups and large enterprise products. Familiar with both remote, and in-office roles. Comfortable for Web, Mobile, and API development.
 
 - Feel free to checkout my [portfolio](https://www.fadhilahdwia.com/) website!
+<!-- - Explore my [blog](https://fadhil.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings. //next planning -->
 - 🏢 Frontend Developer [@Akasia](https://akasia.id/) remote from Yogyakarta
 - ⚡ I enjoy gaming, reading, and jogging :)
 - 📫 Reach out to me **fadhilahdwi.a@gmail.com**
