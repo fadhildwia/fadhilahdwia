@@ -14,7 +14,7 @@ Software Developer with 3+ years of experience. Worked for innovative startups a
 <a href="https://www.youtube.com/channel/UClBvEuTwUUNDpPW1WKedjnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclbveutwuundppw1wkedjnw" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Technologies & Tools
+<!-- ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
@@ -26,6 +26,19 @@ Software Developer with 3+ years of experience. Worked for innovative startups a
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-TailwindCSS-informational?style=flat&color=warning&logo=tailwindcss)
+-->
+
+## 📦 Toolbox
+
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Gatsby.js` `Vue.js` `Svelte.js` `Framer-Motion` ...
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Backend Development:** `Express.js` `Laravel` `Firebase` 
+
+**Testing:** `JEss` `Postman`
+
+**Others:** `Storybook` `Confluence` `Jira`
 
 ## 📊 Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhildwia&show_icons=true&theme=onedark&locale=en" alt="fadhildwia" /></p>
