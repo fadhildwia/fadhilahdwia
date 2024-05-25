@@ -36,7 +36,7 @@ Software Developer with 3+ years of experience. Worked for innovative startups a
 
 **Backend Development:** `Express.js` `Laravel` `Firebase` 
 
-**Testing:** `JEss` `Postman`
+**Testing:** `Jest` `Postman`
 
 **Others:** `Storybook` `Confluence` `Jira`
 
