@@ -1,9 +1,10 @@
 [![Header](https://github.com/fadhildwia/fadhildwia/blob/main/banner.jpg?raw=true "Header")](https://github.com/fadhildwia)
 
-## Hi👋, I'm Fadhilah Dwi Ananda!
-I am an experienced front-end developer with over 2+ years of experience in the field. I specialize in designing and developing visually appealing and responsive user interfaces. My expertise in JavaScript and TypeScript, as well as frameworks like React Js, Next Js, React Native, and Node.js.
+## Hi👋, I'm Fadhil!
+Software Developer with 3+ years of experience. Worked for innovative startups and large enterprise products. Familiar with both remote, and in-office roles. Comfortable for Web, Mobile, and API development.
 
-- 📫 How to reach me **fadhilahdwi.a@gmail.com**
+- Feel free to checkout my [portfolio](https://www.fadhilahdwia.com/) website!
+- 📫 Reach out to me **fadhilahdwi.a@gmail.com**
 
 ## 💻 Connect With Me
 <p align="left">
